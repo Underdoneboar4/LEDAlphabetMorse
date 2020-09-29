@@ -222,7 +222,7 @@ void z(){
   dit();
   space();
 }
-
+//needs to be a Switch
 void wordEater(char str[]){
   for (int in = 0; str[in] != '\0'; in++){
     char ch = str[in];
